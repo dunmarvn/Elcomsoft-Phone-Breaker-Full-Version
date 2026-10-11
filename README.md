@@ -255,4 +255,4 @@ This repository serves as the official landing page for Elcomsoft Phone Breaker.
 **Get the most recent version of Elcomsoft Phone Breaker today!**
 
 ---
-**Last updated:** 2026-10-10 22:09:22 UTC
+**Last updated:** 2026-10-11 01:28:54 UTC
